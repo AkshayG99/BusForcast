@@ -451,7 +451,7 @@ const App = () => {
   // const TheMap = () => (
   //   <div style={{ width: "80rem", height: "100vh" }}>
   //     <APIProvider
-  //       apiKey={"AIzaSyB3nBgYHz5t3vyrCFNVEMveFwW4SoLVhjs"}
+  //       apiKey={""}
   //       onLoad={() => console.log("Maps API has loaded.")}
   //     >
   //       <Map
@@ -605,7 +605,7 @@ const App = () => {
         }}
       >
         <APIProvider
-          apiKey={"AIzaSyAXbKCAfstjaqeiE3kiBkvG89zksVXAIMA"}
+          apiKey={""}
           onLoad={() => console.log("Maps API has loaded.")}
         >
           <Map
